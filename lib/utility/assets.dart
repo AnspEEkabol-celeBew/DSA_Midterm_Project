@@ -15,6 +15,7 @@ import '../segments/segment12.dart';
 import '../segments/segment13.dart';
 import '../segments/segment14.dart';
 import '../segments/segment15.dart';
+import '../segments/tryItEditor.dart';
 
 import 'builder.dart';
 
@@ -74,7 +75,8 @@ ListView drawerPreset(var context) {
       buildListTile(context, const Segment12(), "Dictionaries"),
       buildListTile(context, const Segment13(), "If Else & Match"),
       buildListTile(context, const Segment14(), "For & While Loops"),
-      buildListTile(context, const Segment15(), "Functions")
+      buildListTile(context, const Segment15(), "Functions"),
+      buildListTile(context, const TryIt(), "TryIt Editor")
     ],
   );
 }
