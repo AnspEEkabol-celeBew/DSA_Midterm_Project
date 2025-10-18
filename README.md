@@ -1,6 +1,8 @@
 # dsa_midterm_project
 
 A Python Tutorial
+Midterm Project for Data Structures and Algorithms
+Keemark C. Estrada BSCS 2
 
 ## Getting Started
 
